@@ -8,5 +8,6 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
       <Label Content="Đại học Duy Tân" />  
+        <Label Content="Lập trình ứng dụng .Net" />  
     </Grid>
 </Window>
